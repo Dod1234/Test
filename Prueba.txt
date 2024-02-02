@@ -3,6 +3,12 @@ This is a textoPrueba
 Agrego nueva informacion a Prueba.txt
 
 Nueva linea de correccion
+
+
 ## Comentario de Referencia
 
+
+Emmm... 
+
+Console.Log("Este seria el codigo pero en C#... mas o menos");
 
