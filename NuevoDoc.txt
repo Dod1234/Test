@@ -1,3 +1,5 @@
 Este archivo es para cambiar las ramas
 
 Nueva linea de correccion 
+
+Guardado de... archivo de omision
