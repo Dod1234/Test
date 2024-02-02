@@ -7,10 +7,6 @@ Nueva linea de correccion
 
 ## Comentario de Referencia
 
-echo "Ahora lo mismo pero en php";
-
-
-Emmm... 
-
-Console.Log("Este seria el codigo pero en C#... mas o menos");
+"Aca se eliminaron los codigos para dejar esta linea"
+echo "Asi es mas simple";
 
