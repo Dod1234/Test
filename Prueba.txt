@@ -9,4 +9,9 @@ Esta es la segunda linea de codigo
 Nueva Linea de Codigo---- Really
 ## Comentario de Referencia
 
+String a = "Este es mi"
+String b = "Codigo de ejemplo"
 
+if(a>b){
+  println("Esto realmente no compila");
+}
